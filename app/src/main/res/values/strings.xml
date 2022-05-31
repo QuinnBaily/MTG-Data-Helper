@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mtg Data Helper</string>
+    <string name="open_text">MTG Data Helper</string>
+
 </resources>
