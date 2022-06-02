@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">Mtg Data Helper</string>
     <string name="open_text">MTG Data Helper</string>
+    <string name="enter_card_name">Enter Card Name</string>
+    <string name="get_data">Get Data</string>
+    <string name="gih">GIH</string>
+    <string name="gp_wr">GP WR</string>
+    <string name="oh_wr">OH WR</string>
+    <string name="gih_wr">GIH WR</string>
+    <string name="zero">0</string>
 
 </resources>
