@@ -8,5 +8,6 @@
     <string name="oh_wr">OH WR</string>
     <string name="gih_wr">GIH WR</string>
     <string name="zero">0</string>
+    <string name="card_name">Card Name</string>
 
 </resources>
