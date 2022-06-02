@@ -111,7 +111,7 @@
         app:layout_constraintEnd_toEndOf="parent" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/gp_wr_val"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="232dp"
@@ -121,7 +121,7 @@
         app:layout_constraintEnd_toEndOf="parent" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/oh_wr_val"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="232dp"
@@ -131,7 +131,7 @@
         app:layout_constraintEnd_toEndOf="parent" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/gih_wr_val"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="232dp"
